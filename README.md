@@ -2,9 +2,7 @@
 
 ## Integrantes
 
-- COMPLETAR
-- COMPLETAR
-- COMPLETAR
+- Mauro Montalbano
 
 ## Tema y API
 
@@ -70,7 +68,7 @@ firebase deploy
 
 El `firebase.json` redirige todas las rutas a `index.html`, así funciona al recargar cualquier ruta.
 
-**URL pública:** COMPLETAR
+**URL pública:** https://tp-rick-and-morty.web.app
 
 ## Capturas
 
