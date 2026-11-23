@@ -74,8 +74,8 @@ El `firebase.json` redirige todas las rutas a `index.html`, así funciona al rec
 
 ### Móvil
 
-COMPLETAR
+![Móvil](capturas/movil.png)
 
 ### Escritorio
 
-COMPLETAR
+![Escritorio](capturas/escritorio.png)
